@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\CECyT9\\Desktop\\Dibuja\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "C:\\Users\\CECyT9\\Downloads\\Practica15\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 94
                 },
                 "from": {
-                    "file": "C:\\Users\\CECyT9\\Desktop\\Dibuja\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\CECyT9\\Downloads\\Practica15\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 147
                 },
                 "from": {
-                    "file": "C:\\Users\\CECyT9\\Desktop\\Dibuja\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\CECyT9\\Downloads\\Practica15\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 198
                 },
                 "from": {
-                    "file": "C:\\Users\\CECyT9\\Desktop\\Dibuja\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\CECyT9\\Downloads\\Practica15\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 253
                 },
                 "from": {
-                    "file": "C:\\Users\\CECyT9\\Desktop\\Dibuja\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\CECyT9\\Downloads\\Practica15\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 311
                 },
                 "from": {
-                    "file": "C:\\Users\\CECyT9\\Desktop\\Dibuja\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "C:\\Users\\CECyT9\\Downloads\\Practica15\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

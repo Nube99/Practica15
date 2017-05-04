@@ -3,30 +3,39 @@
 
     <item
         is-multidex="false"
+        jar="C:\Users\CECyT9\Downloads\Practica15\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="83a3caaa24108833488dca51c82f85cccf09d5d1">
+        <dex dex="C:\Users\CECyT9\Downloads\Practica15\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_00bc29285fd3ff33dc2c84c922f0c3d56f379752.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\CECyT9\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="21.1.2"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_f5b443714028224d44c63880149b0e4976a712cd.jar" />
+        <dex dex="C:\Users\CECyT9\Downloads\Practica15\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_f5b443714028224d44c63880149b0e4976a712cd.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        jar="C:\Users\CECyT9\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
         optimize="true"
         revision="21.1.2"
-        sha1="048d85ec402faf9c442df74b10bf4f6c4836a7ea">
-        <dex dex="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_7ee1c9dc24a53b9f8322664544f26c7ebd3cf1cf.jar" />
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\CECyT9\Downloads\Practica15\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_f5b443714028224d44c63880149b0e4976a712cd.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\CECyT9\Downloads\Practica15\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="21.1.2"
-        sha1="7bd3df47bf04c96515e031257088c2d6542cda69">
-        <dex dex="C:\Users\CECyT9\Desktop\Dibuja\app\build\intermediates\pre-dexed\debug\instant-run_d722e247a38041b75e1cd0f373ab17620eb4001a.jar" />
+        sha1="a711ee83355bed677b2cc9efaf07af8a0e8a547c">
+        <dex dex="C:\Users\CECyT9\Downloads\Practica15\app\build\intermediates\pre-dexed\debug\instant-run_ba96e4e6d5729f75f04bf8304bd97a21bee6f7d9.jar" />
     </item>
 
 </items>

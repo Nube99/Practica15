@@ -44,17 +44,16 @@ public class MainActivity extends Activity {
 			//canvas.drawColor(Color.rgb(255, 255, 150));
 			canvas.drawColor(Color.WHITE); // color de fondo
 			Paint paint = new Paint();
-			paint.setARGB(255, 255, 0, 0);
+			//paint.setARGB(255, 255, 0, 0);
 			paint.setStyle(Paint.Style.STROKE);
 			paint.setStrokeWidth(6);
-			paint.setColor(Color.RED);
+			paint.setColor(Color.CYAN);
 
 			if (accion == "down") {
 				path.moveTo(x, y);
 			}
 			if (accion == "move") {
-				//path.lineTo(x, y);
-				canvas.drawCircle(x, y, 15,paint);
+				path.addCircle(x,y,25, Direction.CW);
 			}
 			canvas.drawPath(path, paint);
 			paint.setColor(Color.BLACK); 
@@ -87,5 +86,6 @@ public class MainActivity extends Activity {
 			invalidate();
 			return true;
 		}
+
 	}
 }
